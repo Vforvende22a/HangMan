@@ -10,7 +10,6 @@
 #define BUFFERSIZE 1024
 const char* FILE_NAME= "words.bin";
 
-
 //Method for writting an array of words to a binary file
 void writeWords()
 {
